@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* Aplicando box-sizing a todos os elementos */
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Removendo margens e paddings do body */
+body {
+  margin: 0;
+  padding: 0;
+}
