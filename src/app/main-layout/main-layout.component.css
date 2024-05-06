@@ -40,10 +40,12 @@ h1 {
   }
   .image-row img:first-child {
     padding-left: 0px;
+    height: 100%;
   }
 
   .image-row img:last-child {
     padding-right: 0px;
+    height: 80%;
   }
 
 .image-row {
@@ -66,10 +68,12 @@ h1 {
 }
   .image-row img:first-child {
     padding-left: 0px;
+    height: 100%;
   }
 
   .image-row img:last-child {
     padding-right: 0px;
+    height: 80%;
   }
 }
 
@@ -86,10 +90,12 @@ h1 {
 }
   .image-row img:first-child {
     padding-left: 0px;
+    height: 100%;
   }
 
   .image-row img:last-child {
     padding-right: 0px;
+    height: 80%;
   }
 }
 @media (max-width: 230px) {
@@ -105,9 +111,11 @@ h1 {
 }
   .image-row img:first-child {
     padding-left: 0px;
+    height: 100%;
   }
 
   .image-row img:last-child {
     padding-right: 0px;
+    height: 80%;
   }
 }
